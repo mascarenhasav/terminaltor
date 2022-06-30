@@ -147,15 +147,16 @@ export const main = (args?: string[]): string => {
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝
                                            
 ----------- ABOUT -----------
- ${config.name}
-ﰩ ${config.ps1_hostname}
- <u><a href="${config.website}" target="_blank">GUI website</a></u>
- <u><a href="${config.resume_url}" target="_blank">CV</a></u>
-爵 <u><a href="${config.repo}" target="_blank">Github</a></u>
+> ${config.name}
+> ${config.ps1_hostname}
+
+> <u><a href="${config.website}" target="_blank">Website</a></u>
+> <u><a href="${config.resume_url}" target="_blank">CV</a></u>
+> <u><a href="${config.repo}" target="_blank">Github</a></u>
+
 ---------- CONTACT ---------- 
- <u><a href="mailto:${config.email}" target="_blank">${config.email}</a></u>
- <u><a href="https://github.com/${config.social.github}" target="_blank">github.com/${config.social.github}</a></u>
- <u><a href="https://linkedin.com/in/${config.social.linkedin}" target="_blank">linkedin.com/in/${config.social.linkedin}</a></u>
+> <u><a href="mailto:${config.email}" target="_blank">${config.email}</a></u>
+> <u><a href="https://linkedin.com/in/${config.social.linkedin}" target="_blank">linkedin</a></u>
 -----------                                                                                                                                                                                                                   
 
 Type 'help' to see the list of available commands.
