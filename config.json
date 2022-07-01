@@ -1,6 +1,6 @@
 {
   "readmeUrl": "https://github.com/mascarenhasav/mascarenhasav.github.io/blob/main/README.md",
-  "title": "Mascarenhas A.",
+  "title": "Mascarenhas A. | Terminaltor",
   "name": "Alexandre Mascarenhas",
   "ascii": "mascarenhasa",
   "social": {
@@ -12,7 +12,7 @@
   "ps1_username": "visitor",
   "repo": "https://github.com/mascarenhasav",
   "website": "https://mascarenhasav.github.io/webpage.html",
-  "resume_url": "https://github.com/mascarenhasav/mascarenhasav.github.io/blob/main/files/CV_EN.pdf",
+  "resume_url": "./files/CV_EN.pdf",
   "colors": {
     "light": {
       "background": "#F8F8F2",
