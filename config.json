@@ -16,7 +16,7 @@
   "colors": {
     "light": {
       "background": "#1c1c1c",
-      "foreground": "#272822",
+      "foreground": "#1c1c1c",
       "yellow": "#F4BF75",
       "green": "#A6E22E",
       "gray": "#AE81FF",
