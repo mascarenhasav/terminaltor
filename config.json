@@ -25,7 +25,7 @@
     },
     "dark": {
       "background": "#1c1c1c",
-      "foreground": "#F8F8F2",
+      "foreground": "#1c1c1c",
       "yellow": "#F4BF75",
       "green": "#A6E22E",
       "gray": "#AE81FF",
